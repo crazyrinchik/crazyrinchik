@@ -3,9 +3,9 @@
 ![Header GIF](https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExMmVmamZqdW5mMDZ3eG1hdTF2ZGh4bGszZ2phYnN5ZzcxeHc1ZjJlbiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/rcOlpTCkM1GAE/giphy.gif)  
 
 ## About
-- 🏙️ Live in **Moscow** 
-- 💼 Working at **TBank** as data/business analyst since summer'24
-- 🎓 Studying 3rd year of Bachelor's degree in **HSE, Data Science and Business Analytics**  
+- **Location:** Moscow 
+- Work in **TBank** as data/business analyst since summer'24
+- **Education:** HSE Faculty of Computer Science, Applied Mathematics and Informatics
 
 ## Skills  
 
