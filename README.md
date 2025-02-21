@@ -7,7 +7,7 @@
 - 💼 Been working at **TBank** as data/business analyst since summer'24
 - 🎓 Studying 3rd year of Bachelor's degree in **HSE, Data Science and Business Analytics**  
 
-## 🚀 Skills  
+## Skills  
 
 ### 🖥️ **Base**
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white) ![C++](https://img.shields.io/badge/C++-00599C?style=flat&logo=cplusplus&logoColor=white) ![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat&logo=mysql&logoColor=white) ![Algorithms](https://img.shields.io/badge/Algorithms-FFA500?style=flat) ![Probability Theory](https://img.shields.io/badge/Probability%20Theory-8A2BE2?style=flat)
@@ -29,6 +29,6 @@
 
 ---
 
-## 📫 Contacts
+## Contacts
 [![Telegram](https://img.shields.io/badge/Telegram-26A5E4?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/crazy_rinchik)
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/crazyrinchik)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=flat&logo=gmail&logoColor=white)](mailto:ekaterinazyub@gmail.com)
