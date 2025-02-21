@@ -1,16 +1,15 @@
-## Hi there 👋
+## Rina Zyubanova
 
-<!--
-**crazyrinchik/crazyrinchik** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# 💻 Привет! Добро пожаловать в мой профиль!
 
-Here are some ideas to get you started:
+- 🏙️ Живу, работаю и учусь в **Москве**  
+- 🏦 Работаю в **ТБанке**  
+- 🎓 Обучаюсь в **HSE (ВШЭ)**  
+- 🧩 Обладаю навыками:  
+  - 💻 Программирование: Python, JavaScript, SQL  
+  - 📊 Анализ данных: Pandas, NumPy, Matplotlib  
+  - 🗃️ Работа с базами данных: PostgreSQL, MySQL  
+  - 🌐 Веб-разработка: React, Node.js, Express  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+![Coding](https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif)
+
