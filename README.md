@@ -10,7 +10,7 @@
 ## 🚀 Skills  
 
 ### 🖥️ **Base**
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white) ![C++](https://img.shields.io/badge/C++-00599C?style=flat&logo=cplusplus&logoColor=white) ![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat&logo=mysql&logoColor=white) ![Algorithms](https://img.shields.io/badge/Algorithms-FFA500?style=flat) ![Probability Theory](https://img.shields.io/badge/Probability%20Theory-8A2BE2?style=flat)  
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white) ![C++](https://img.shields.io/badge/C++-00599C?style=flat&logo=cplusplus&logoColor=white) ![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat&logo=mysql&logoColor=white) ![Algorithms](https://img.shields.io/badge/Algorithms-FFA500?style=flat) ![Probability Theory](https://img.shields.io/badge/Probability%20Theory-8A2BE2?style=flat)
 
 ---
 
@@ -24,7 +24,7 @@
 
 ---
 
-### 🔥 **General**
+### 🔥 **Soft**
 ![Agile](https://img.shields.io/badge/Agile-000000?style=flat&logo=agile&logoColor=white) ![English C1](https://img.shields.io/badge/English-C1-4B92DB?style=flat) ![Team Work](https://img.shields.io/badge/Team%20Work-000000?style=flat&logo=teamviewer&logoColor=white) ![Project Management](https://img.shields.io/badge/Project%20Management-4B92DB?style=flat)
 
 ---
