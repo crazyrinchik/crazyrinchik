@@ -23,7 +23,7 @@
 ![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat&logo=pandas&logoColor=white) ![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat&logo=numpy&logoColor=white) ![Seaborn](https://img.shields.io/badge/Seaborn-008080?style=flat) ![SciPy Stats](https://img.shields.io/badge/SciPy%20Stats-8CAAE6?style=flat&logo=scipy&logoColor=white) ![A/B Tests](https://img.shields.io/badge/A%2FB%20Tests-00BFFF?style=flat) ![Tableau](https://img.shields.io/badge/Tableau-E97627?style=flat&logo=tableau&logoColor=white) ![Redash](https://img.shields.io/badge/Redash-FF0000?style=flat) ![Superset](https://img.shields.io/badge/Superset-1F77B4?style=flat) ![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white) ![DVC](https://img.shields.io/badge/DVC-945DD6?style=flat) ![JupyterHub](https://img.shields.io/badge/JupyterHub-F37626?style=flat&logo=jupyter&logoColor=white) ![BigQuery](https://img.shields.io/badge/BigQuery-4285F4?style=flat&logo=googlebigquery&logoColor=white) ![AWS](https://img.shields.io/badge/AWS-FF9900?style=flat&logo=amazonaws&logoColor=white)
 
 Several interesting projects:
-- 📂 [Customer Cohort&RFM analysis]([https://github.com/crazyrinchik/data_analysis/tree/main/cohort_rfm_analysis])
+- 📂 [Customer Cohort&RFM analysis](https://github.com/crazyrinchik/data_analysis/tree/main/cohort_rfm_analysis)
 
 ---
 
