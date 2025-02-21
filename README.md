@@ -1,4 +1,4 @@
-# Hey, I'm Rina! Welcome to my GitHub profile
+# Welcome to my GitHub profile 😈
 
 ![Header GIF](https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExMmVmamZqdW5mMDZ3eG1hdTF2ZGh4bGszZ2phYnN5ZzcxeHc1ZjJlbiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/rcOlpTCkM1GAE/giphy.gif)  
 
