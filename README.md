@@ -35,10 +35,13 @@ A couple of interesting projects:
 ---
 
 ### 🔥 **Soft**
-![Agile](https://img.shields.io/badge/Agile-000000?style=flat&logo=agile&logoColor=white) ![English C1](https://img.shields.io/badge/English-C1-4B92DB?style=flat) ![Team Work](https://img.shields.io/badge/Team%20Work-000000?style=flat&logo=teamviewer&logoColor=white) ![Project Management](https://img.shields.io/badge/Project%20Management-4B92DB?style=flat)
+![Agile](https://img.shields.io/badge/Agile-000000?style=flat&logo=agile&logoColor=white) 
+![English C1](https://img.shields.io/badge/English-C1-4B92DB?style=flat) 
+![Team Work](https://img.shields.io/badge/Team%20Work-000000?style=flat&logo=teamviewer&logoColor=white) 
+![Project Management](https://img.shields.io/badge/Project%20Management-4B92DB?style=flat)
 
 ---
 
 ## Contacts
-[![Telegram](https://img.shields.io/badge/Telegram-26A5E4?style=plastic&logo=telegram&logoColor=white)](https://t.me/crazy_rinchik)
+[![Telegram](https://img.shields.io/badge/Telegram-26A5E4?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/crazy_rinchik)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ekaterinazyub@gmail.com)
