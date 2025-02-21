@@ -40,5 +40,5 @@ A couple of interesting projects:
 ---
 
 ## Contacts
-[![Telegram](https://img.shields.io/badge/Telegram-26A5E4?style=social&logo=telegram&logoColor=white)](https://t.me/crazy_rinchik)
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=social&logo=gmail&logoColor=white)](mailto:ekaterinazyub@gmail.com)
+[![Telegram](https://img.shields.io/badge/Telegram-26A5E4?style=plastic&logo=telegram&logoColor=white)](https://t.me/crazy_rinchik)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ekaterinazyub@gmail.com)
