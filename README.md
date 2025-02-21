@@ -1,20 +1,18 @@
-# Hey, I'm Rina! Welcome to my GitHub  
+# Hey, I'm Rina! Welcome to my GitHub profile
 
-![Header GIF](https://media.giphy.com/media/2zoFg7OGkcS82CPK44/giphy.gif) 
+!giphka
 
 ## About
-- 🏙️ Currently live in **Moscow**  
-- 💼 Working at **TBank** as data/business analyst
+- 🏙️ Live in **Moscow** 
+- 💼 Been working at **TBank** as data/business analyst since summer'24
 - 🎓 Studying 3rd year of Bachelor's degree in **HSE, Data Science and Business Analytics**  
 
-## Skills  
-- 🖥️ **Программирование**: Python, C++, SQL, 
-- 📊 **Анализ данных**: SQL, Pandas, NumPy  
-- 🔥 И многое другое!  
+## Skills
+- 🖥️ **Base**: Python (pandas, numpy, seaborn, re, ss etc), C++, SQL, Algorithms and Data Structures, Probability Theory and Mathematical Statistics, 
+- 📊 **ML, DL**: sklearn, pytorch, tensorflow, RAG (langchain/llamaindex), ollama, streamlit, CV 
+- 🔥 **General**: Git, DVC, A/B-tests, JupyterHub, Tableau/Redash/Superset
 
 ## 📫 Контакты  
 [![Telegram](https://img.shields.io/badge/Telegram-26A5E4?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/crazy_rinchik)
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/crazyrinchik)
 
----
-⭐️ *Заглядывай в мои репозитории и оставляй звездочки!*  
