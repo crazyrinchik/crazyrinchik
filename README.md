@@ -1,6 +1,6 @@
 # Hey, I'm Rina! Welcome to my GitHub  
 
-![Header GIF]([https://media.giphy.com/media/2zoFg7OGkcS82CPK44/giphy.gif])  
+![Header GIF](https://media.giphy.com/media/2zoFg7OGkcS82CPK44/giphy.gif) 
 
 ## About
 - 🏙️ Currently live in **Moscow**  
