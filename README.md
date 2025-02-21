@@ -1,23 +1,20 @@
-## Rina Zyubanova
-# 👋 Привет! Добро пожаловать в мой профиль  
+# Hey, I'm Rina! Welcome to my GitHub  
 
-![Header GIF](https://media.giphy.com/media/QTfX9Ejfra3ZmNxh6B/giphy.gif)  
+![Header GIF]([https://media.giphy.com/media/QTfX9Ejfra3ZmNxh6B/giphy.gif](https://media.giphy.com/media/2zoFg7OGkcS82CPK44/giphy.gif?cid=790b7611d6gciicq0fv81ii0robu19n1w7m1077u8ulyn8g5&ep=v1_gifs_search&rid=giphy.gif&ct=g))  
 
-## 📍 О себе  
-- 🏙️ Живу, работаю и учусь в **Москве**  
-- 💼 Работаю в **ТБанке**  
-- 🎓 Учусь в **HSE**  
+## About
+- 🏙️ Currently live in **Moscow**  
+- 💼 Working at **TBank** as data/business analyst
+- 🎓 Studying 3rd year of Bachelor's degree in **HSE, Data Science and Business Analytics**  
 
-## 🚀 Навыки  
-- 🖥️ **Программирование**: Python, Java, JavaScript  
-- 🛠️ **Технологии**: Docker, Kubernetes, Git  
+## Skills  
+- 🖥️ **Программирование**: Python, C++, SQL, 
 - 📊 **Анализ данных**: SQL, Pandas, NumPy  
 - 🔥 И многое другое!  
 
 ## 📫 Контакты  
-[![Telegram](https://img.shields.io/badge/Telegram-26A5E4?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/your_username)  
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/your_username/)  
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/your_username)  
+[![Telegram](https://img.shields.io/badge/Telegram-26A5E4?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/crazy_rinchik)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/crazyrinchik)
 
 ---
 ⭐️ *Заглядывай в мои репозитории и оставляй звездочки!*  
