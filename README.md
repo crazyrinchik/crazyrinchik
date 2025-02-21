@@ -20,7 +20,7 @@
 
 Several interesting projects here:
 - 📂 [Detection of fraud in reviews on marketplaces](https://github.com/crazyrinchik/DL_pet_projects/blob/main/marketplace_fraud_detection.ipynb)
-- 📂 [Detection&classification of clothing items on photos](https://github.com/crazyrinchik/DL_pet_projects/blob/main/wear_classification_detection.ipynb)
+- 📂 [Detection&classification of clothing items on photos](https://github.com/crazyrinchik/DL_pet_projects/blob/main/wear_detection.ipynb) 
 - 📂 [Implementation of decision tree](https://github.com/crazyrinchik/ML_AMI/blob/main/homework_practice_05_trees_Zyubanova.ipynb)
 - 📂 [The LSTM that jokes (sometimes almost funny)](https://github.com/crazyrinchik/DL_AMI/blob/main/shw_03_rnn_Zyubanova.ipynb)
 
